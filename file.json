@@ -1,0 +1,12 @@
+{ 
+   
+    "rice":
+        {"name": "sona", "price": 40.50 , "weight":10},
+    "Pulses": 
+        {"name": "tordol", "price": 70 , "weight":15},
+    "Wheats":
+        {"name": "durumun", "price": 50 , "weight":17}
+        
+  
+}
+  

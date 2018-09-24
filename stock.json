@@ -1,0 +1,20 @@
+[
+    {
+        "stockName": "bsnl",
+        "stockShares": 456,
+        "sharePrice": 2356.256,
+        "totalValue": 1074452.736
+    },
+    {
+        "stockName": "airtel",
+        "stockShares": 53,
+        "sharePrice": 52.3,
+        "totalValue": 2771.9
+    },
+    {
+        "stockName": "jio",
+        "stockShares": 521,
+        "sharePrice": 124563,
+        "totalValue": 64897323
+    }
+]
